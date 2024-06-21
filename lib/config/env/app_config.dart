@@ -7,8 +7,8 @@ class AppConfiguration {
   static const tokenType = TokenType.REFRESH_TOKEN;
 
   //-- Base URL Microservices
-  static const authBaseUrl = 'https://aktaris.infinids.id/api/';
-  static const rocketBaseUrl = 'https://test-chat2.infinids.id/api/v1/rooms.upload/';
+  static const authBaseUrl = '';
+  static const rocketBaseUrl = '';
 
   //-- Production
   static const prodBaseUrl = 'https://api.github.production.com';
